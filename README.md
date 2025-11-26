@@ -23,16 +23,20 @@ Python | C++ | SQL | Java
 **Data Science & ML:**
 
 Pandas | NumPy | Scikit-learn | Request | 
+
 Data Cleaning & Preprocessing
+
 Statistical Analysis & Hypothesis Testing
+
 Machine Learning & Deep Learning
+
 Feature Engineering
 
 **Data Visualization:**
 
 Matplotlib | Seaborn | Ms Excel
 
-Tools & Technologies:
+**Tools & Technologies:**
 
 Jupyter Notebook | Google Colab
 Git & GitHub
