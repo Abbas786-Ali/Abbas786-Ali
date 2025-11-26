@@ -1,13 +1,17 @@
-👋 I'm [Ali Abbas]
+👋 **I'm [Ali Abbas]**
 
 🎓 **About Me**
 
 I'm a passionate Information Engineering Technology student with a strong focus on Data Science. I love turning raw data into meaningful insights and building intelligent solutions to real-world problems.
 
 🔭 Currently working on data science projects and expanding my knowledge in machine learning
+
 🌱 Learning advanced analytics, machine learning algorithms, and data visualization techniques
+
 💡 Interested in predictive modeling, statistical analysis, and AI applications
-📍 Based in Lahore, Punjab, Pakistan
+
+📍 Based in Islamabad,Pakistan
+
 💬 Ask me about data analysis, Python, and machine learning
 
 🛠️ **Technical Skills**
