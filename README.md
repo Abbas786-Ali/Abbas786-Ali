@@ -42,3 +42,15 @@ Jupyter Notebook | Google Colab
 Git & GitHub
 Excel | MySQL | Google Antigravity |
 VS Cod
+
+💼 **What I'm Looking For**
+
+I'm actively seeking opportunities to:
+
+Collaborate on data science and machine learning projects
+
+Contribute to open-source projects
+
+Learn from experienced data professionals
+
+Apply my skills in internships or entry-level positions
