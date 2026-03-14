@@ -1,63 +1,108 @@
-👋 **I'm [Ali Abbas]**
+# Hi 👋 I'm Ali Abbas
+
+### AI & Machine Learning Enthusiast | Data Science Learner | Data Analyst
+
+Welcome to my GitHub profile!
+I am passionate about **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy working with real-world datasets, exploring patterns in data, and building projects that help solve problems using data-driven approaches.
+
+Currently, I am focusing on improving my skills in **Python, Data Analysis, Machine Learning, and Data Visualization** while building projects to strengthen my practical experience.
 
 ---
+
+# 🚀 About Me
+
+* 🎓 Student learning **Artificial Intelligence and Data Science**
+* 📊 Interested in **Data Analysis and Data Visualization**
+* 🤖 Exploring **Machine Learning algorithms**
+* 📈 Practicing **Exploratory Data Analysis (EDA)**
+* 💻 Building projects using **Python**
+* 🌱 Continuously learning and improving my skills
+
 ---
 
-🎓 **About Me**
------
----
-I'm a passionate Information Engineering Technology student with a strong focus on Data Science. I love turning raw data into meaningful insights and building intelligent solutions to real-world problems.
+# 🧠 Areas of Interest
 
-🔭 Currently working on data science projects and expanding my knowledge in machine learning
+* Artificial Intelligence (AI)
+* Machine Learning
+* Data Science
+* Data Analysis
+* Data Visualization
+* Real-world dataset projects
 
-🌱 Learning advanced analytics, machine learning algorithms, and data visualization techniques
-
-💡 Interested in predictive modeling, statistical analysis, and AI applications
-
-📍 Based in Islamabad,Pakistan
-
-💬 Ask me about data analysis, Python, and machine learning
-
-🛠️ **Technical Skills**
----
-----
-Programming Languages:**
----
 ---
 
-Python | C++ | SQL | Java
+# 🛠️ Technologies & Tools
 
-**Data Science & ML:**
+### Programming
+
+* Python
+
+### Data Analysis
+
+* Pandas
+* NumPy
+
+### Data Visualization
+
+* Matplotlib
+* Seaborn
+
+### Machine Learning
+
+* Scikit-learn (Learning)
+
+### Tools
+
+* Jupyter Notebook
+* Git
+* GitHub
+* VS Code
+* Kaggle
+
 ---
+
+# 📊 What I Am Currently Learning
+
+I am currently improving my knowledge in:
+
+* Data Cleaning and Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization Techniques
+* Machine Learning Fundamentals
+* Model Training and Evaluation
+* Working with Real-World Datasets
+
 ---
 
-Pandas | NumPy | Scikit-learn | Request | 
+# 📈 GitHub Goals
 
-Data Cleaning & Preprocessing
+My goals on GitHub are:
 
-Statistical Analysis & Hypothesis Testing
+* Share my **learning journey in Data Science**
+* Build **Machine Learning projects**
+* Upload **data analysis notebooks**
+* Work with **real-world datasets**
+* Improve my **coding and analytical skills**
 
-Machine Learning & Deep Learning
-
-Feature Engineering
-
-**Data Visualization:**
----
 ---
 
-Matplotlib | Seaborn | Ms Excel
+# 🎯 Future Learning Goals
 
-**Tools & Technologies:**
----
+I plan to learn and work on:
+
+* Deep Learning
+* Neural Networks
+* Natural Language Processing (NLP)
+* Computer Vision
+* Advanced Machine Learning Projects
+* Data Science Portfolio Projects
+
 ---
 
-Jupyter Notebook | Google Colab
-Git & GitHub
-Excel | MySQL | Google Antigravity |
-VS Cod
+# 🌍 Connect With Me
 
-💼 **What I'm Looking For**
----
+* GitHub: https://github.com/Aliabbas7863
+
 ---
 
 I'm actively seeking opportunities to:
